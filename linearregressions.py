@@ -1,8 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import sklearn as sklearn
-from sklearn.linear_model import LinearRegression
+import sklearn
 import numpy as np
 
 data = pd.read_csv("car_dekho.csv")
